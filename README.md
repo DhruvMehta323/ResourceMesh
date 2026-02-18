@@ -4,8 +4,7 @@
 
 Discover, track, and optimally allocate your company's underutilized assets — GPUs, lab equipment, software licenses, meeting rooms, and test environments.
 
-## 🚀 Setup & Run
----
+
 
 ## 📦 Install Commands Summary
 
@@ -17,7 +16,8 @@ pip install flask flask-cors redis python-dotenv numpy scipy PyMySQL gunicorn
 npm install react react-dom react-router-dom recharts lucide-react axios clsx
 npm install -D vite @vitejs/plugin-react tailwindcss postcss autoprefixer
 ```
-
+## 🚀 Setup & Run
+---
 
 ### 1. MySQL Setup
 
