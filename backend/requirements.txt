@@ -1,0 +1,10 @@
+flask
+flask-cors
+flask-sqlalchemy
+python-dotenv
+numpy
+scipy
+PyMySQL
+gunicorn
+redis
+prometheus-client

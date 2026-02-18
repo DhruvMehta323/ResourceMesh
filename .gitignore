@@ -1,0 +1,135 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# Node / Frontend
+node_modules/
+.vite/
+dist/
+dist-ssr/
+.next/
+out/
+.npm/
+.pnpm-debug.log*
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+*.local
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+
+# Testing / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.hypothesis/
+.mypy_cache/
+.pyre/
+.pytype/
+coverage/
+.nyc_output/
+*.lcov
+
+# Logs
+logs/
+*.log
+
+# Databases / data files
+*.db
+*.sqlite
+*.sqlite3
+dump.rdb
+appendonly.aof
+mysql_data/
+postgres_data/
+redis_data/
+mysql-data/
+postgres-data/
+
+# Docker
+*.dockerfile.swp
+
+# IDE/editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.directory
+.Trash-*
+
+# Temp / cache
+.cache/
+.temp/
+.tmp/
+tmp/
+temp/
+
+# Backup files
+*.bak
+*.backup
+*.old
+*.orig
+
+# Optional local project data
+test_data/
+sample_data/
+dev_scripts/
+local_utils/
+
+# Keep accidental typo file out of git
+.gtiignore
