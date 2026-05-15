@@ -94,8 +94,6 @@ docker-compose up --build
 | **BFS** | Asset upgrade path finding | O(V + E) |
 | **Greedy** | Real-time urgent matching | O(n log n) |
 | **Sliding Window** | Utilization trend analysis | O(n × window) |
-| **Two Pointers** | Requirement gap analysis | O(n + m) |
-| **Union-Find** | Co-usage community detection | O(α(n)) |
 
 ---
 
